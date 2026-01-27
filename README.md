@@ -33,22 +33,22 @@ This skill helps AI assistants (Claude, Cursor, etc.) transform generic web UIs 
 ### Installation
 
 **Claude.ai:**
-1. Download [`frontend-design.skill`](https://github.com/YOUR_USERNAME/frontend-design/releases/latest)
+1. Download [`frontend-design.skill`](https://github.com/kumbajirajkumar123/frontend-design/releases/latest)
 2. Settings → Features → Skills → Upload file
 
 **Claude Code:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/frontend-design.git ~/.claude/skills/frontend-design
+git clone https://github.com/kumbajirajkumar123/frontend-design.git ~/.claude/skills/frontend-design
 ```
 
 **Cursor:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/frontend-design.git ~/.cursor/skills/frontend-design
+git clone https://github.com/kumbajirajkumar123/frontend-design.git ~/.cursor/skills/frontend-design
 ```
 
 **OpenCode:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/frontend-design.git ~/.opencode/skills/frontend-design
+git clone https://github.com/kumbajirajkumar123/frontend-design.git ~/.opencode/skills/frontend-design
 ```
 
 ## 💡 Usage Examples
@@ -225,7 +225,7 @@ If this skill helps you create amazing designs, please:
 - [Documentation](docs/)
 - [Examples Gallery](docs/examples.md)
 - [Changelog](CHANGELOG.md)
-- [Issues](https://github.com/YOUR_USERNAME/frontend-design/issues)
+- [Issues](https://github.com/kumbajirajkumar123/frontend-design/issues)
 
 ## 🙏 Acknowledgments
 
@@ -238,6 +238,6 @@ Built with inspiration from:
 
 ---
 
-**Made with ❤️ by [Raj Kumar](https://github.com/YOUR_USERNAME)**
+**Made with ❤️ by [Raj Kumar](https://github.com/kumbajirajkumar123)**
 
 *Transform every interface into a memorable experience.*
